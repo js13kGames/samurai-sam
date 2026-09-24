@@ -1,4 +1,8 @@
 ---
+genres:
+  - arcade
+  - action
+  - casual
 post: https://reitgames.com/news/samurai-sam-port-mortem
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
